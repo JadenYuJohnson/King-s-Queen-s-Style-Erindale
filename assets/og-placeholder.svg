@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">King's &amp; Queen's Style Erindale</title>
+  <desc id="desc">Brand preview placeholder for the Erindale barber and hair salon website.</desc>
+  <rect width="1200" height="630" fill="#171717"/>
+  <rect x="56" y="56" width="1088" height="518" fill="#faf7f0"/>
+  <circle cx="188" cy="196" r="78" fill="#171717"/>
+  <text x="188" y="213" text-anchor="middle" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#c8a34a">K&amp;Q</text>
+  <text x="120" y="340" font-family="Georgia, serif" font-size="76" font-weight="700" fill="#171717">King's &amp; Queen's</text>
+  <text x="122" y="410" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#8c6c25">Style Erindale</text>
+  <text x="122" y="476" font-family="Arial, sans-serif" font-size="28" fill="#6f675d">Fresh cuts, colour and care in Wanniassa.</text>
+</svg>
